@@ -1,0 +1,49 @@
+_repo: History-of-the-Protestants-of-France-from-the-commencement-of-the-Reformation-to-the-present-__74322
+_version: 0.0.1
+alternative_title: Histoire des protestants de France. English
+contributor:
+  translator:
+    agent_name: Barnes, Philip Edward
+    alias: Barnes, Philip Edw. (Philip Edward)
+    birthdate: 1815
+    deathdate: 1860
+    gutenberg_agent_id: '57444'
+    url: http://www.gutenberg.org/2009/agents/57444
+creator:
+  author:
+    agent_name: Félice, G. de (Guillaume)
+    aliases:
+    - Felice, G. de (Guillaume)
+    - Félice, Guillaume de
+    - De Félice, G. (Guillaume)
+    birthdate: 1803
+    deathdate: 1871
+    gutenberg_agent_id: '57443'
+    url: http://www.gutenberg.org/2009/agents/57443
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guillaume_de_F%C3%A9lice_(4e_comte_de_Panzutti)
+    - https://en.wikipedia.org/wiki/Guillaume_de_F%C3%A9lice,_4th_Count_Panzutti
+description: ''
+gutenberg_issued: '2024-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74322'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924029439860/page/n3/mode/2up
+pgterms:marc905: 20230415031624flice
+pgterms:marc906: '1853'
+pgterms:marc907: gb
+production_note: Brian Wilson, MWS, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bGeorge Routledge & Co., ,$c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Protestants -- France'
+- !lcc 'BX'
+- GITenberg
+title: History of the Protestants of France, from the commencement of the Reformation
+  to the present time
+url: http://www.gutenberg.org/ebooks/74322
