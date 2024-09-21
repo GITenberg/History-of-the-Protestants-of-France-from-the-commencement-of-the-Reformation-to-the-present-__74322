@@ -9,6 +9,9 @@ contributor:
     deathdate: 1860
     gutenberg_agent_id: '57444'
     url: http://www.gutenberg.org/2009/agents/57444
+covers:
+- cover_type: archival
+  image_path: 74322-h/images/cover-a.jpg
 creator:
   author:
     agent_name: Félice, G. de (Guillaume)
@@ -24,6 +27,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Guillaume_de_F%C3%A9lice_(4e_comte_de_Panzutti)
     - https://en.wikipedia.org/wiki/Guillaume_de_F%C3%A9lice,_4th_Count_Panzutti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74322#History-of-the-Protestants-of-France-from-the-commencement-of-the-Reformation-to-the-present-_
 gutenberg_issued: '2024-08-27'
 gutenberg_type: Text
 identifiers:
